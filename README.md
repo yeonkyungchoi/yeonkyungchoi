@@ -1,6 +1,6 @@
 ### Hi there 👋
-📫 How to reach me:  💌 kyuunng@icloud.com
-                     💾 @subarashi_gutentag
+📫 How to reach me:  💌 kyuunng@icloud.com 
+                     
                    
 <!--
 **yeonkyungchoi/yeonkyungchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
